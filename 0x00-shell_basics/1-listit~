@@ -1,0 +1,8 @@
+#!/bin/bash
+
+
+#get the command for listing current dir
+list = "$(ls)"
+
+#list the current dir
+echo "$list"
