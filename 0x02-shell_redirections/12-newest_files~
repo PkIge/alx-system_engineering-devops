@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $(find $(pwd) -type d -not -path $(pwd) -not -path $(pwd)/* | -1)
