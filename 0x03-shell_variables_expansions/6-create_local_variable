@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "local variable 'School' has been created with the value: 'School'"
+
